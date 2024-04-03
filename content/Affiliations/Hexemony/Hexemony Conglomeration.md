@@ -17,8 +17,8 @@ Clubs:
 [[Gaming Club]]  
 [[Gothic Club]]  
 [[Reading Club]]  
-[[Journalism Club]]  
-[[Fashion Club]]  
 [[Harmony Club]]  
+[[Fashion Club]]  
+[[Journalism Club]]  
 
 ![[hex.png]] ^c52b44
