@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {},
     locale: "en-US",
-    baseUrl: "https://jacktheredcreeper.github.io/jacksarchive",
+    baseUrl: "github.com/JackTheRedCreeper/jacksarchive",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
