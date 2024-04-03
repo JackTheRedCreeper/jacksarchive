@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Useless main page
 ---
+Database for the Savage Worlds game.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Head over to [[Schools]] or the [[Student List]].
