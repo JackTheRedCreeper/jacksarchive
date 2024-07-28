@@ -1,1 +1,2 @@
-npx quartz sync 
+npx quartz sync
+TIMEOUT /T 3
