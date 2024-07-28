@@ -85,7 +85,7 @@ tags:
 | Picture                 | Name    | Rank   |
 | ----------------------- | ------- | ------ |
 | ![[nea_avatar.png]]     | [[Nea]] | Member |
-| ![[yun_jin_avatar.png]] | Yun     | Member |
+| ![[yun_jin_avatar.png]] | [[Yun]] | Member |
 
 ^3e3200
 
