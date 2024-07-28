@@ -1,8 +1,9 @@
 ---
-title: Summer
+title: Yun
 draft: false
 tags:
 ---
 Affiliation: [[Hexemony Conglomeration]]  
-Club: [[Harmony Club]]
-![[summer.jpg]]
+Club: [[Fashion Club]] (Member)
+
+![[yun_jin.jpg]]

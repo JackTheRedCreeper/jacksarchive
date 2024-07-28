@@ -6,4 +6,4 @@ tags:
 Affiliation: [[Hexemony Conglomeration]]  
 Club: [[Harmony Club]]
 
-![[serenity.png]]
+![[serenity.jpg]]

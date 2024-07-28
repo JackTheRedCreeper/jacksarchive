@@ -82,9 +82,10 @@ tags:
 
 ***
 ### [[Fashion Club]]
-| Picture             | Name    | Rank   |
-| ------------------- | ------- | ------ |
-| ![[nea_avatar.png]] | [[Nea]] | Member |
+| Picture                 | Name    | Rank   |
+| ----------------------- | ------- | ------ |
+| ![[nea_avatar.png]]     | [[Nea]] | Member |
+| ![[yun_jin_avatar.png]] | Yun     | Member |
 
 ^3e3200
 
